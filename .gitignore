@@ -1,0 +1,11 @@
+# Files to ignore
+.DS_Store
+.vscode
+package-lock.json
+
+# Folders to ignore
+.nyc_output
+build
+coverage
+node_modules
+*.log
